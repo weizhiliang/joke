@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"  trimDirectiveWhitespaces="true"%>
 <!DOCTYPE html><html lang=zh>
 <head>
-	<title>${config.system_website_name}</title>
+	<title>${config.system_website_name}-一个看笑话还能赚金币的网站，笑话，搞笑图片，笑话大全，爆笑文字，冷笑话，幽默笑话，爆笑笑话，爆笑图片，搞笑笑话，内涵笑话，搞笑图集，gif动态图片，热门笑话，笑话吧</title>
 	<%@ include file="jscss.jsp" %>
 </head>
 <body>
